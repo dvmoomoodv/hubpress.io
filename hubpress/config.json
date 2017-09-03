@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://dvmoomoodv.github.io",
+    "hubpress": "https://dvmoomoodv.github.io",
+    "theme": "//dvmoomoodv.github.io/themes/casper",
+    "images": "https://dvmoomoodv.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
